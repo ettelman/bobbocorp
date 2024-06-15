@@ -4,7 +4,7 @@
 
 ### Installera:
 
-```npm install```
+```npm install``` <br>
 Skapa en .env fil med följande info (byt ut info ofc):
 ```
 DB_HOST=localhost
